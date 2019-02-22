@@ -1,0 +1,15 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "myblog js web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified \" & exit 1"
+  },
+  "keywords": [
+    "myblog",
+    "N-Blog"
+  ],
+  "author": "roby",
+  "license": "MIT"
+}

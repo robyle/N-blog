@@ -1,0 +1,19 @@
+{
+  "name": "myinit",
+  "version": "1.0.0",
+  "description": "测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcmd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitresp"
+  },
+  "keywords": [
+    "test",
+    "init"
+  ],
+  "author": "gitmax@qq.com",
+  "license": "MIT"
+}
