@@ -11,5 +11,8 @@
     "N-Blog"
   ],
   "author": "roby",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1"
+  }
 }
